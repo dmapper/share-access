@@ -1,4 +1,5 @@
 ## share-access
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dmapper/share-access?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM](https://nodei.co/npm/share-access.png?downloads=true)](https://nodei.co/npm/share-access/)
 
 Access-control plugin for [sharejs](https://github.com/share/ShareJS), [racer](https://github.com/derbyjs/racer) and [derby](https://github.com/derbyjs/derby)
